@@ -1,8 +1,6 @@
 <script>
-  
-  
   import Navbar from "./navbar.svelte";
-
+  import Asci from "./asci.svelte";
 
 </script>
 
